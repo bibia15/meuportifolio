@@ -3,4 +3,18 @@
 :root {
   --cor-principal:rgb(255, 232, 255);
   --cor-secundaria: white;
-  --cor-destaque:
+  --cor-destaque: rosa;
+}
+
+body {
+  font-family:"chakra petch" , sans-serif;
+}
+
+h1, h2, h5 {
+  color: var(--cor-secundaria);
+  font-weight: 700;
+}
+
+footer a:houver {
+  color:var (--cor-principal);
+}
